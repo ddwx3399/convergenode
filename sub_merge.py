@@ -13,8 +13,8 @@ replace_keywords = [
 
 # 定义你的订阅链接列表
 subscription_urls = [
-    "http://139.196.220.53:8081/",
-   # "https://abcd.com/sub2"
+    "https://prefsub.918181.xyz/youxuanip",
+    "https://mycustom.918181.xyz/automycustom"
 ]
 
 # 获取和处理每个订阅链接的内容
