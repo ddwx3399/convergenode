@@ -13,7 +13,7 @@ replace_keywords = [
 
 # 定义你的订阅链接列表
 subscription_urls = [
-    "https://abcd.com/sub1",
+    "http://139.196.220.53:8081/",
     "https://abcd.com/sub2"
 ]
 
